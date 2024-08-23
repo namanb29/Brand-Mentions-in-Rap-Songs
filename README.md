@@ -80,3 +80,11 @@ Let's look at a few examples to give us a clearer picture:
 However, what must be noted here is that the CPM rates that I considered here are specific to the US. These will differ according to geographical regions as well. Furthermore, another interesting point is that I have only taken into account the number of streams on spotify. These songs are played on other platforms like apple music, youtube music etc., live artist shows, radio channels, pubs, cafes etc. If one somehow manages to collect streaming data from all the possible sources and calculates the financial value of the brand mentions in these songs, the figure would probably be 10 times that of the ones I calculated above.
 
 In some cases, such brand mentions have also led to collaborations between artists and the brands. For example, Drake and Travis Scott successfully collaborated with Nike to introduce their own line of clothing and shoes. Travis Scott also collaborated with McDonald's to introduce a customized menu option "Travis Scott Meal". Kanye West had a long running partnership with Adidas for his extremely popular shoe line Yeezys. Kanye West expanded the Yeezy fashion line by another collaboration with GAP. Another popular collaboration was that between Cardi B and Balenciaga when they made her the face of their winter campaign in 2020 and most recently she made her debut at the Balenciaga Los Angeles Fashion Show in 2023.
+
+
+
+# 4. Results Summarized
+
+ - Google search trends suggest that mentions in songs often led to spikes in brand searches. It’s clear that these lyrical shout-outs can drive real interest from listeners.
+ 
+ - By comparing CPM rates with the exposure generated through rap lyrics, it’s clear that brands could be saving significant amounts in advertising costs thanks to these organic mentions in highly influential songs—exposure that might otherwise come with a hefty price tag (millions of dollars) in traditional advertising.
