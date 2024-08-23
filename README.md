@@ -55,10 +55,12 @@ The graph reveals that Gucci ranks highest in brand mentions, followed closely b
 Among the 10 popular rap artists considered, Kanye West stands at the top of the list with the highest number of brand references (106) mentioning Louis Vuitton 22 times in the 100 songs that were part of our data set. 
 
 ## 3.3 What was the Impact?
-
+### 3.3.1 Google Searches
 Let's take a look at the google search trends history of Louis Vuitton.
 
 ![image](https://github.com/user-attachments/assets/6e03c28a-a23f-417a-8936-4423a79e74e1)
 
 I have marked special pointers representing release of a song or any other event relating to the brand. Despite being extremely popular songs, both Gold Digger and Stronger by Kanye West, did not really cause any manjor increase in LVs google search interest score. However, we should consider that fact when these songs were released, internet access was still very limited in most parts of the world. If we look at the data a decade later we can see that the release of Eminem's Godzilla increased LVs search interest score an additional 16 points. Furthermore, when LV announced the release of their documentary on the occasion of the 200th birhtday celebrations of their founder, their search interest score skyrocketed and reached an all time high. 
+
+As mentioned earlier, the lack of direct sales data makes it difficult to measure the financial impact of brand mentions in rap music. To address this, I’ve turned to another key metric: Cost Per Mille (CPM). CPM refers to the cost a brand incurs for every thousand impressions their advertisement receives. It’s a common metric used in advertising to gauge the efficiency and reach of promotional efforts. In this project, I’ve scraped CPM rates from Gupta Media, which provides a comprehensive overview of average rates for various platforms. However, it’s important to note that the rates I’ve used are specific to the U.S. market. By comparing these CPM rates to the value of brand mentions in rap lyrics, we can estimate the potential savings brands might achieve through these organic placements.
 
