@@ -22,6 +22,8 @@ beatutifulsoup4
 seaborn
 matplotlib
 ```
+
+
 # 2. Instructions for Execution
 
 
@@ -37,5 +39,13 @@ matplotlib
 1. Open 'Main.ipynb' notebook.
 2. Choose the desired selection of brands and artisits and execute all cells.
 
+
+# 3. Analysis
+
+## 3.1 # Which Brand Has the Highest Mentions?
+
+![image](https://github.com/user-attachments/assets/3b9512d6-bf20-4b9e-8a26-baf188c13963)
+
+The graph reveals that Gucci ranks highest in brand mentions, followed closely by various car and other luxury brands. This observation is consistent with existing research on brand mentions in rap music, which often highlights the prominence of high-end and aspirational brands.
 
 
