@@ -9,3 +9,14 @@ I’m focusing on a select subset of songs to explore the impact of brand mentio
 I used python to scrape lyrics using the Genius Lyrics API via the beautifulsoup library then created separte dataframes for each artist showing the number of times certain brands were mentioned by them in their songs. A lot of times brands aren't mentioned directly but by the use of "keywords". To overcome this issue I created a dictionary to map these keywords to the respective brand names.
 
 Undoubtedly, the most direct way to assess the impact of brand mentions would be through analyzing sales data. However, obtaining accurate and comprehensive sales data directly tied to specific brand mentions in rap music is challenging and often impractical. Instead, I will focus on alternative metrics to gauge the impact. Specifically, I’ll examine Google search trends to see if spikes in brand-related searches correlate with the release if the songs. Additionally, I’ll estimate the potential money saved by brands through these free mentions compared to traditional advertising costs. This approach will provide insights into the effectiveness of brand placements in rap music, despite the difficulties in accessing precise sales data.
+# 1. Requirements
+This project is developed using Python version 3.9.6. It relies on the following third-party libraries:
+
+```
+pandas
+requests
+re
+beatutifulsoup4
+seaborn
+matplotlib
+```
