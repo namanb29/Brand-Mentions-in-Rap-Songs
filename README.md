@@ -88,3 +88,10 @@ In some cases, such brand mentions have also led to collaborations between artis
  - Google search trends suggest that mentions in songs often led to spikes in brand searches. It’s clear that these lyrical shout-outs can drive real interest from listeners.
  
  - By comparing CPM rates with the exposure generated through rap lyrics, it’s clear that brands could be saving significant amounts in advertising costs thanks to these organic mentions in highly influential songs—exposure that might otherwise come with a hefty price tag (millions of dollars) in traditional advertising.
+
+
+# 5. References
+
+https://medium.com/@mayabera/whats-a-name-drop-worth-89891927e925
+
+https://medium.com/moderated/the-power-of-name-dropping-fashion-brands-in-songs-1a4d7c314bb0
