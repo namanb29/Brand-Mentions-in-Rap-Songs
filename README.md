@@ -9,6 +9,8 @@ I’m focusing on a select subset of songs to explore the impact of brand mentio
 I used python to scrape lyrics using the Genius Lyrics API via the beautifulsoup library then created separte dataframes for each artist showing the number of times certain brands were mentioned by them in their songs. A lot of times brands aren't mentioned directly but by the use of "keywords". To overcome this issue I created a dictionary to map these keywords to the respective brand names.
 
 Undoubtedly, the most direct way to assess the impact of brand mentions would be through analyzing sales data. However, obtaining accurate and comprehensive sales data directly tied to specific brand mentions in rap music is challenging and often impractical. Instead, I will focus on alternative metrics to gauge the impact. Specifically, I’ll examine Google search trends to see if spikes in brand-related searches correlate with the release if the songs. Additionally, I’ll estimate the potential money saved by brands through these free mentions compared to traditional advertising costs. This approach will provide insights into the effectiveness of brand placements in rap music, despite the difficulties in accessing precise sales data.
+
+
 # 1. Requirements
 This project is developed using Python version 3.9.6. It relies on the following third-party libraries:
 
@@ -20,3 +22,19 @@ beatutifulsoup4
 seaborn
 matplotlib
 ```
+# 2. Instructions for Execution
+
+
+## 2.1. Scraping Lyrics
+
+1. Open 'scraping.ipynb` notebook.
+2. Navigate to the **Retrieving URLs** section. Enter your own Genius API Token and put the name of the artist and desired number of songs in the print command to run the function and retrieve urls to the lyrics.
+3. Navigate to the **Scraping Lyrics** section. Enter the url of the desired song in the print command and run the function.
+4. Navigate to the **Scraping Lyrics and Saving All Lyrics in One Files** section. Enter the name of the artist and desired number of songs in the print command to run the function and save all the lyrics to a .txt file.
+
+## 2.2. Testing the Model
+
+To test the model:
+1. Open the `main.ipynb` notebook.
+2. Navigate to the **Run Testing** section.
+3. Various configurations are available for testing. Choose the desired configuration and execute the respective cells to test the model performance with different setups.
