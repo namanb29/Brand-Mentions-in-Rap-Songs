@@ -32,9 +32,10 @@ matplotlib
 3. Navigate to the **Scraping Lyrics** section. Enter the url of the desired song in the print command and run the function.
 4. Navigate to the **Scraping Lyrics and Saving All Lyrics in One Files** section. Enter the name of the artist and desired number of songs in the print command to run the function and save all the lyrics to a .txt file.
 
-## 2.2. Testing the Model
+## 2.2. Analyzing the Lyrics
 
-To test the model:
-1. Open the `main.ipynb` notebook.
-2. Navigate to the **Run Testing** section.
-3. Various configurations are available for testing. Choose the desired configuration and execute the respective cells to test the model performance with different setups.
+1. Open 'Main.ipynb' notebook.
+2. Choose the desired selection of brands and artisits and execute all cells.
+
+
+
