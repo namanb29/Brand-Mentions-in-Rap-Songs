@@ -52,4 +52,13 @@ The graph reveals that Gucci ranks highest in brand mentions, followed closely b
 
 ![image](https://github.com/user-attachments/assets/ba67d4a3-8444-4dc9-9c82-e4773cc89741)
 
-Among the 10 popular rap artists considered, Kanye West stands at the top of the list with the highest number of brand references (106) menioning Louis Vuitton 22 times in the 100 songs that were part of our data set. 
+Among the 10 popular rap artists considered, Kanye West stands at the top of the list with the highest number of brand references (106) mentioning Louis Vuitton 22 times in the 100 songs that were part of our data set. 
+
+## 3.3 What was the Impact?
+
+Let's take a look at the google search trends history of Louis Vuitton.
+
+![image](https://github.com/user-attachments/assets/6e03c28a-a23f-417a-8936-4423a79e74e1)
+
+I have marked special pointers representing release of a song or any other event relating to the brand. Despite being extremely popular songs, both Gold Digger and Stronger by Kanye West, did not really cause any manjor increase in LVs google search interest score. However, we should consider that fact when these songs were released, internet access was still very limited in most parts of the world. If we look at the data a decade later we can see that the release of Eminem's Godzilla increased LVs search interest score an additional 16 points. Furthermore, when LV announced the release of their documentary on the occasion of the 200th birhtday celebrations of their founder, their search interest score skyrocketed and reached an all time high. 
+
