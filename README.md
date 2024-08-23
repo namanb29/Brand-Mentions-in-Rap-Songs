@@ -42,10 +42,14 @@ matplotlib
 
 # 3. Analysis
 
-## 3.1 # Which Brand Has the Highest Mentions?
+## 3.1 Which Brand Has the Highest Mentions?
 
 ![image](https://github.com/user-attachments/assets/3b9512d6-bf20-4b9e-8a26-baf188c13963)
 
 The graph reveals that Gucci ranks highest in brand mentions, followed closely by various car and other luxury brands. This observation is consistent with existing research on brand mentions in rap music, which often highlights the prominence of high-end and aspirational brands.
 
+## 3.2  Which Artist Had the Highest Mentions?
 
+![image](https://github.com/user-attachments/assets/ba67d4a3-8444-4dc9-9c82-e4773cc89741)
+
+Among the 10 popular rap artists considered, Kanye West stands at the top of the list with the highest number of brand references (106) menioning Louis Vuitton 22 times in the 100 songs that were part of our data set. 
